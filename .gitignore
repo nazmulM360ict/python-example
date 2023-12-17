@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Local development files
+instance/
+
+# Environment variables
+.env
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+db.sqlite
+db.sqlite3
+
+# Flask migration
+migrations/
